@@ -3,15 +3,11 @@
  
 ## Integrantes  
 
-🌱 Massimino, Iván
-
-🌱 Monzón, Lucila  
 
 🌱 Murga, María Luciana   
 
 🌱 Yorbandi, Selien Xavier
 
-🌱 Zamudia, Ana Carolina
 
 
 # Cómo poner en funcionamiento el proyecto 🌱
